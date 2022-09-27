@@ -1,7 +1,7 @@
 # PACMAN GAME
 
 This game was created during a college classe about Computer Architecture, this was our finish project in the class.
-For this, I had to use the programming language Assembly, and a simulator named P3SIM. With this, I could program and visualize the pacman game.
+For this, I had to use the Assembly programming language, and a simulator named P3SIM. With this, I could program and visualize the pacman game.
 The graphical interface isn't very advanced, but I was able to apply the concepts learned in this class, and do a funny and dynamic game.
 
 ## The game
